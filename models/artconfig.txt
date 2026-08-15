@@ -1,2 +1,2 @@
-AddSimpleModel(-1, 19379, -2004, "model.dff", "textdraws/character_stats.txd");
-AddSimpleModel(-1, 19379, -2001, "model.dff", "textdraws/vehicle.txd");
+AddSimpleModel(-1, 19379, -2000, "model.dff", "vehicle.txd");
+AddSimpleModel(-1, 19379, -2001, "model.dff", "character.txd");
