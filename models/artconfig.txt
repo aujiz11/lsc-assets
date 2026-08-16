@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 AddSimpleModel(-1, 19379, -2000, "model.dff", "vehicle_info.txd");
 AddSimpleModel(-1, 19379, -2001, "model.dff", "vehicle_speed.txd");
 AddSimpleModel(-1, 19379, -2002, "model.dff", "character.txd");
+=======
+AddSimpleModel(-1, 19379, -2000, "model.dff", "vehicle.txd");
+AddSimpleModel(-1, 19379, -2001, "model.dff", "character.txd");
+>>>>>>> aed8d5edb6ff420c03c517d925039c18d4955517
